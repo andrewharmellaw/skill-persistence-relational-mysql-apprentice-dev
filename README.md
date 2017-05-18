@@ -6,7 +6,8 @@
 ## [TOPICS]
   * SELECT (plus Joins) 
   * CREATE and UPDATE
-  * INSERT and DELETE (inc. Transactions and ACID)
+  * INSERT and DELETE
+  * Transactions and ACID
   * Indexes
   * Primary Keys
   * Foreign Keys (SUPPLEMENTARY)
